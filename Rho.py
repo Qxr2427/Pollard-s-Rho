@@ -1,5 +1,3 @@
-#!/usr/bin/python2.7
-# David Cox 2016
 from fractions import gcd
 import random
 
